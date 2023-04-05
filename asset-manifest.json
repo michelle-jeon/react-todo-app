@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/michelle-jeon/react-todo-app.git/static/css/main.f0546363.css",
+    "main.js": "/michelle-jeon/react-todo-app.git/static/js/main.b1c31dda.js",
+    "static/js/787.7f2c2da0.chunk.js": "/michelle-jeon/react-todo-app.git/static/js/787.7f2c2da0.chunk.js",
+    "index.html": "/michelle-jeon/react-todo-app.git/index.html",
+    "main.f0546363.css.map": "/michelle-jeon/react-todo-app.git/static/css/main.f0546363.css.map",
+    "main.b1c31dda.js.map": "/michelle-jeon/react-todo-app.git/static/js/main.b1c31dda.js.map",
+    "787.7f2c2da0.chunk.js.map": "/michelle-jeon/react-todo-app.git/static/js/787.7f2c2da0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0546363.css",
+    "static/js/main.b1c31dda.js"
+  ]
+}
